@@ -1,0 +1,5 @@
+# Ignore any files in /bin and /obj Folders
+**/.vs
+**/bin
+**/obj
+LGT/.vs/**
